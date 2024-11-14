@@ -42,5 +42,5 @@
 | ![](https://avatars.steamstatic.com/ac236fc88e323b59ecc847a8b54d38256cfaaf2c.jpg) | 熊大              | [76561199070913334](https://steamcommunity.com/profiles/76561199070913334/) | ✅           | 2023-03-26 13:25:21 |          |
 | ![](https://avatars.steamstatic.com/1d171d1b4c276a297d5543b26815bb56a70a7998.jpg) | == Guan Qiao == | [76561198308831611](https://steamcommunity.com/profiles/76561198308831611/) | ✅           | 2020-01-13 09:03:34 |          |
 | ![](https://avatars.steamstatic.com/f767c60a831e752cecd3a81ec194b045345469d1.jpg) | MADLAX          | [76561198222461132](https://steamcommunity.com/profiles/76561198222461132/) | ✅           | 2022-05-17 11:00:30 |          |
-| ![](https://avatars.steamstatic.com/8257abe7d9202f99594e65bd6776211b7cbcd25a.jpg) | 一般路过的萨尼铁塔       | [76561198853547460](https://steamcommunity.com/profiles/76561198853547460/) | ✅           | 2024-08-14 13:07:38 |          |
+| ![](https://avatars.steamstatic.com/14fa45d90d1774068441651602af9b2de61890b4.jpg) | 一般路过的萨尼铁塔       | [76561198853547460](https://steamcommunity.com/profiles/76561198853547460/) | ✅           | 2024-08-14 13:07:38 |          |
 | ![](https://avatars.steamstatic.com/f61a1c2e9ee05236d6cbc89add14976eb05b6cd9.jpg) | Aliki Oliveir   | [76561198401634410](https://steamcommunity.com/profiles/76561198401634410/) | ✅           | 2024-08-02 04:24:37 |          |
