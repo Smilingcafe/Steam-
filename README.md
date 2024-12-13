@@ -15,8 +15,6 @@
 
 | Avatar                                                                            | Name            | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS       | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT            | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          |
 | ![](https://avatars.steamstatic.com/83024352c31f103649f8cb322cb85fd6fff9cf50.jpg) | 🐟               | [76561199078864627](https://steamcommunity.com/profiles/76561199078864627/) | ✅           | 2024-08-02 04:21:27 |          |
 | ![](https://avatars.steamstatic.com/9523655e7ac897268c6f094ba2c0405e3e70f6bf.jpg) | KIRAKIRAKILLER  | [76561198408223934](https://steamcommunity.com/profiles/76561198408223934/) | ✅           | 2023-01-16 12:24:37 |          |
 | ![](https://avatars.steamstatic.com/9a73beaf96127008df6268a035c5a85fe494332f.jpg) | 永远的水            | [76561198974423600](https://steamcommunity.com/profiles/76561198974423600/) | ✅           | 2022-06-28 17:10:05 |          |
