@@ -1,11 +1,8 @@
-name: 'SteamFriends'
+name: 'Delete non-friends record'
 
 on:
   # 进行手动控制
   workflow_dispatch:
-  schedule:
-  # 每天运行一次，如果需要更高频率或者更低的频率改这里即可。
-    - cron: '0 0 * * *'
 
 permissions:
   contents: write
@@ -15,7 +12,6 @@ env:
 
 jobs:
   Update:
-    if: ${{ !(github.repository == 'systemannounce/SteamFriends' && github.event_name == 'schedule') }}
     runs-on: ubuntu-latest
     steps:
       - name: '下载源码🏗️'
@@ -29,10 +25,7 @@ jobs:
           python3 -m pip install --upgrade pip
           pip3 install -r ./requirements.txt
       - name: '运行程序💻'
-        env:
-          web_api: ${{ secrets.web_api }}
-          id: ${{ secrets.id }}
-        run: python3 ./steam.py
+        run: python3 ./delete.py
       - name: '获取当前日期🕘'
         id: current_date
         run: |
@@ -53,8 +46,8 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add --all
-          git commit -m "${{ steps.current_date.outputs.date }} Update"
-      
+          git commit -m "${{ steps.current_date.outputs.date }} Delete All non-friends record"
+
       - name: '提交代码🛫'
         if: ${{ env.skip_commit == 'false' && github.repository != 'systemannounce/SteamFriends' }}
         uses: ad-m/github-push-action@master
